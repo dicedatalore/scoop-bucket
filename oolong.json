@@ -1,0 +1,22 @@
+{
+    "version": "1.2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/dicedatalore/oolong/releases/download/v1.2.0/oolong_1.2.0_windows_amd64.zip",
+            "bin": [
+                "oolong.exe"
+            ],
+            "hash": "b2352a200e25fd41d62d0bc0451dfdfd14d56e2648bcbbe7676dbc2c59186823"
+        },
+        "arm64": {
+            "url": "https://github.com/dicedatalore/oolong/releases/download/v1.2.0/oolong_1.2.0_windows_arm64.zip",
+            "bin": [
+                "oolong.exe"
+            ],
+            "hash": "2f12dcc93315a5dfe1276f6e622441d0bc73ad31c08607b0a822d5768b328449"
+        }
+    },
+    "homepage": "https://github.com/dicedatalore/oolong",
+    "license": "MIT",
+    "description": "Simple ephemeral chat. Converse with models in your terminal"
+}
