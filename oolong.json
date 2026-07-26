@@ -1,19 +1,19 @@
 {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dicedatalore/oolong/releases/download/v1.2.0/oolong_1.2.0_windows_amd64.zip",
+            "url": "https://github.com/dicedatalore/oolong/releases/download/v1.2.1/oolong_1.2.1_windows_amd64.zip",
             "bin": [
                 "oolong.exe"
             ],
-            "hash": "b2352a200e25fd41d62d0bc0451dfdfd14d56e2648bcbbe7676dbc2c59186823"
+            "hash": "e559e717a00c3d1220734c3d0753b914b9c00d34ad46827a7387bf32ec42d0e7"
         },
         "arm64": {
-            "url": "https://github.com/dicedatalore/oolong/releases/download/v1.2.0/oolong_1.2.0_windows_arm64.zip",
+            "url": "https://github.com/dicedatalore/oolong/releases/download/v1.2.1/oolong_1.2.1_windows_arm64.zip",
             "bin": [
                 "oolong.exe"
             ],
-            "hash": "2f12dcc93315a5dfe1276f6e622441d0bc73ad31c08607b0a822d5768b328449"
+            "hash": "dc7ec8b90a7ef4c96cf29815fbe1e09c8f974cfa3f2754e8bd7e526770b9beee"
         }
     },
     "homepage": "https://github.com/dicedatalore/oolong",
